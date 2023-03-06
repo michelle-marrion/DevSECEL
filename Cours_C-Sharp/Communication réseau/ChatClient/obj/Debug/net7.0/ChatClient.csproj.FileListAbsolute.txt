@@ -1,0 +1,15 @@
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\bin\Debug\net7.0\ChatClient.exe
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\bin\Debug\net7.0\ChatClient.deps.json
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\bin\Debug\net7.0\ChatClient.runtimeconfig.json
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\bin\Debug\net7.0\ChatClient.dll
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\bin\Debug\net7.0\ChatClient.pdb
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\obj\Debug\net7.0\ChatClient.csproj.AssemblyReference.cache
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\obj\Debug\net7.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\obj\Debug\net7.0\ChatClient.AssemblyInfoInputs.cache
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\obj\Debug\net7.0\ChatClient.AssemblyInfo.cs
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\obj\Debug\net7.0\ChatClient.csproj.CoreCompileInputs.cache
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\obj\Debug\net7.0\ChatClient.dll
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\obj\Debug\net7.0\refint\ChatClient.dll
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\obj\Debug\net7.0\ChatClient.pdb
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\obj\Debug\net7.0\ChatClient.genruntimeconfig.cache
+E:\Projet DevSecel\Cours_C-Sharp\Communication réseau\ChatClient\obj\Debug\net7.0\ref\ChatClient.dll

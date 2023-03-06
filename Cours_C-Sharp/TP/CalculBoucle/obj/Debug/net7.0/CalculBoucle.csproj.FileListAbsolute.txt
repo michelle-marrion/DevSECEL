@@ -1,0 +1,15 @@
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\bin\Debug\net7.0\CalculBoucle.exe
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\bin\Debug\net7.0\CalculBoucle.deps.json
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\bin\Debug\net7.0\CalculBoucle.runtimeconfig.json
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\bin\Debug\net7.0\CalculBoucle.dll
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\bin\Debug\net7.0\CalculBoucle.pdb
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\obj\Debug\net7.0\CalculBoucle.csproj.AssemblyReference.cache
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\obj\Debug\net7.0\CalculBoucle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\obj\Debug\net7.0\CalculBoucle.AssemblyInfoInputs.cache
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\obj\Debug\net7.0\CalculBoucle.AssemblyInfo.cs
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\obj\Debug\net7.0\CalculBoucle.csproj.CoreCompileInputs.cache
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\obj\Debug\net7.0\CalculBoucle.dll
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\obj\Debug\net7.0\refint\CalculBoucle.dll
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\obj\Debug\net7.0\CalculBoucle.pdb
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\obj\Debug\net7.0\CalculBoucle.genruntimeconfig.cache
+E:\Projet DevSecel\Cours_C-Sharp\TP\CalculBoucle\obj\Debug\net7.0\ref\CalculBoucle.dll

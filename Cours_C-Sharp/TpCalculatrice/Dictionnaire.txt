@@ -1,0 +1,36 @@
+using System;
+using System.Collections.Generic;
+
+public class DictionnaireDeMois
+{
+    public static void Main(string[] args)
+    {
+        IDictionary<string, int> mois = new Dictionary<string, int>();
+
+        // TODO : Remplacer les noms par des constantes de type chaine de caractères
+        const string cleUn = "Juin";
+        const string cleDeux = "Septembre";
+        const string cleTrois = "Mars";
+        mois.Add(cleUn, 6);
+        mois.Add(cleDeux, 9);
+        mois.Add(cleTrois, 5);
+  foreach (KeyValuePair<string, int> clePaire in mois)
+        {
+            Console.WriteLine(clePaire.Key.ToString() + " est le numéro du mois de " + clePaire.Value + " de l'année ");
+        }
+        // TODO : Corriger la valeur de Mars avec (3)
+  mois[cleTrois] = 3 ;
+        // TODO : Retirer Juin
+  foreach (KeyValuePair<string, int> clePaire in mois)
+        {
+            Console.WriteLine(clePaire.Key.ToString() + " est le numéro du mois de " + clePaire.Value + " de l'année ");
+        }
+  mois.Remove(cleUn);
+        // Afficher le contenu du dictionnaire
+        Console.WriteLine("La liste des mois est :");
+        foreach (KeyValuePair<string, int> clePaire in mois)
+        {
+            Console.WriteLine(clePaire.Key.ToString() + " est le numéro du mois de " + clePaire.Value + " de l'année ");
+        }
+    }
+}

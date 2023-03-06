@@ -1,0 +1,14 @@
+
+using System;
+
+public class BonjourMonde
+{
+        public static void Main(string[] args)
+        {
+            AfficheBonjour();
+        }
+        public static void AfficheBonjour()
+        {
+          Console.WriteLine("Bonjour le monde");
+        }      
+}

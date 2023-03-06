@@ -1,0 +1,51 @@
+using System;
+
+public class InstructionSwitch
+{
+    enum Couleur { bleu, vert, rouge, jaune };
+
+    public static void Main(string[] args)
+    {
+        Couleur couleurChoisie = Couleur.vert;
+
+        // TODO : Remplacer la séquence if/else par une instruction switch équivalente qui fonctionne selon la valeur de couleurChoisie
+        switch (couleurChoisie)
+        {
+          case Couleur.bleu:
+            Console.WriteLine("La couleur est bleue");
+            break;
+          case Couleur.vert :
+            Console.WriteLine("La couleur est verte");
+            break;
+          case Couleur.rouge :
+            Console.WriteLine("La couleur est rouge");
+            break;
+          case Couleur.jaune:
+            Console.WriteLine("La couleur est jaune");
+            break;
+          default :
+            Console.WriteLine("Cette couleur n'est pas connue !");
+            break;
+        }
+        if (couleurChoisie == Couleur.bleu)
+        {
+            Console.WriteLine("La couleur est bleue");
+        }
+        else if (couleurChoisie == Couleur.vert)
+        {
+            Console.WriteLine("La couleur est verte");
+        }
+        else if (couleurChoisie == Couleur.rouge)
+        {
+            Console.WriteLine("La couleur est rouge");
+        }
+        else if (couleurChoisie == Couleur.jaune)
+        {
+            Console.WriteLine("La couleur est jaune");
+        }
+        else
+        {
+            Console.WriteLine("Cette couleur n'est pas connue !");
+        }
+    }
+}

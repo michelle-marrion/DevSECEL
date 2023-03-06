@@ -1,0 +1,15 @@
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\bin\Debug\net7.0\jeu.exe
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\bin\Debug\net7.0\jeu.deps.json
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\bin\Debug\net7.0\jeu.runtimeconfig.json
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\bin\Debug\net7.0\jeu.dll
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\bin\Debug\net7.0\jeu.pdb
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\obj\Debug\net7.0\jeu.csproj.AssemblyReference.cache
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\obj\Debug\net7.0\jeu.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\obj\Debug\net7.0\jeu.AssemblyInfoInputs.cache
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\obj\Debug\net7.0\jeu.AssemblyInfo.cs
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\obj\Debug\net7.0\jeu.csproj.CoreCompileInputs.cache
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\obj\Debug\net7.0\jeu.dll
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\obj\Debug\net7.0\refint\jeu.dll
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\obj\Debug\net7.0\jeu.pdb
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\obj\Debug\net7.0\jeu.genruntimeconfig.cache
+E:\Projet DevSecel\Cours_C-Sharp\Evaluation\jeu\obj\Debug\net7.0\ref\jeu.dll

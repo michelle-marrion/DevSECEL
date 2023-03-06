@@ -1,0 +1,28 @@
+using System;
+using System.Collections.Generic;
+
+public class EnsembleIngredients
+{
+    public static void Main(string[] args)
+    {
+        ISet<string> ingredients = new HashSet<string>();
+        ingredients.Add("sucre");
+        ingredients.Add("chocolat");
+        ingredients.Add("beurre");
+        ingredients.Add("vanille");
+        
+
+        // TODO : ajouter un autre ingrédient à l'ensemble
+
+        ingredients.Add("lait");
+        // TODO : retirer la vanille de l'ensemble
+
+          ingredients.Remove("vanille");
+        // Afficher la liste des ingrédients
+        Console.WriteLine("Voici la liste de nos ingrédients");
+        foreach (String ingredient in ingredients)
+        {
+            Console.WriteLine(ingredient);
+        }
+    }
+}

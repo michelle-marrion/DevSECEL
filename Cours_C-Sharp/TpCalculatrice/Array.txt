@@ -1,0 +1,31 @@
+using System;
+
+public class TableauDeCouleurs
+{
+	public static void Main(string[] args)
+	{
+		// TODO : Déclarer une variable nommée couleurs d'un array de chaînes de longueur 5
+string[] couleurs = new string[5];
+		
+		// TODO : Remplir le tableau avec les couleurs demandées
+		couleurs[0] = "rouge";
+    couleurs[1] = "jaune";
+    couleurs[2] = "orange";
+    couleurs[3] = "vert";
+    couleurs[4] = "bleu";
+    foreach (String couleur in couleurs)
+		{
+			Console.WriteLine(couleur);
+		}
+    Console.WriteLine("Change color index four : resultat is ......");
+        
+		// TODO : Remplacer vert par émeraude dans le tableau
+		couleurs[3] = "Emeraude";
+        
+		// Afficher le contenu du tableau
+		foreach (String couleur in couleurs)
+		{
+			Console.WriteLine(couleur);
+		}
+	}
+}

@@ -1,0 +1,15 @@
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\bin\Debug\net7.0\FirstProjet.exe
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\bin\Debug\net7.0\FirstProjet.deps.json
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\bin\Debug\net7.0\FirstProjet.runtimeconfig.json
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\bin\Debug\net7.0\FirstProjet.dll
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\bin\Debug\net7.0\FirstProjet.pdb
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\obj\Debug\net7.0\FirstProjet.csproj.AssemblyReference.cache
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\obj\Debug\net7.0\FirstProjet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\obj\Debug\net7.0\FirstProjet.AssemblyInfoInputs.cache
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\obj\Debug\net7.0\FirstProjet.AssemblyInfo.cs
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\obj\Debug\net7.0\FirstProjet.csproj.CoreCompileInputs.cache
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\obj\Debug\net7.0\FirstProjet.dll
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\obj\Debug\net7.0\refint\FirstProjet.dll
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\obj\Debug\net7.0\FirstProjet.pdb
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\obj\Debug\net7.0\FirstProjet.genruntimeconfig.cache
+E:\Projet DevSecel\Cours_C-Sharp\FirstProjet\obj\Debug\net7.0\ref\FirstProjet.dll

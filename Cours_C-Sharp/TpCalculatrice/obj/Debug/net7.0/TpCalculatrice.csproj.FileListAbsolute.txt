@@ -1,0 +1,15 @@
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\bin\Debug\net7.0\TpCalculatrice.exe
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\bin\Debug\net7.0\TpCalculatrice.deps.json
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\bin\Debug\net7.0\TpCalculatrice.runtimeconfig.json
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\bin\Debug\net7.0\TpCalculatrice.dll
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\bin\Debug\net7.0\TpCalculatrice.pdb
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\obj\Debug\net7.0\TpCalculatrice.csproj.AssemblyReference.cache
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\obj\Debug\net7.0\TpCalculatrice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\obj\Debug\net7.0\TpCalculatrice.AssemblyInfoInputs.cache
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\obj\Debug\net7.0\TpCalculatrice.AssemblyInfo.cs
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\obj\Debug\net7.0\TpCalculatrice.csproj.CoreCompileInputs.cache
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\obj\Debug\net7.0\TpCalculatrice.dll
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\obj\Debug\net7.0\refint\TpCalculatrice.dll
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\obj\Debug\net7.0\TpCalculatrice.pdb
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\obj\Debug\net7.0\TpCalculatrice.genruntimeconfig.cache
+E:\Projet DevSecel\Cours_C-Sharp\TpCalculatrice\obj\Debug\net7.0\ref\TpCalculatrice.dll

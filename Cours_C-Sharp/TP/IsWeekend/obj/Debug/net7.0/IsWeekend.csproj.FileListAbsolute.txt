@@ -1,0 +1,15 @@
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\bin\Debug\net7.0\IsWeekend.exe
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\bin\Debug\net7.0\IsWeekend.deps.json
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\bin\Debug\net7.0\IsWeekend.runtimeconfig.json
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\bin\Debug\net7.0\IsWeekend.dll
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\bin\Debug\net7.0\IsWeekend.pdb
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\obj\Debug\net7.0\IsWeekend.csproj.AssemblyReference.cache
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\obj\Debug\net7.0\IsWeekend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\obj\Debug\net7.0\IsWeekend.AssemblyInfoInputs.cache
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\obj\Debug\net7.0\IsWeekend.AssemblyInfo.cs
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\obj\Debug\net7.0\IsWeekend.csproj.CoreCompileInputs.cache
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\obj\Debug\net7.0\IsWeekend.dll
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\obj\Debug\net7.0\refint\IsWeekend.dll
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\obj\Debug\net7.0\IsWeekend.pdb
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\obj\Debug\net7.0\IsWeekend.genruntimeconfig.cache
+E:\Projet DevSecel\Cours_C-Sharp\TP\IsWeekend\obj\Debug\net7.0\ref\IsWeekend.dll

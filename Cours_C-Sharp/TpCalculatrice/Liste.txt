@@ -1,0 +1,47 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+
+public class ListeDesInvites
+{
+	public static void Main(string[] args)
+	{
+		// TODO : Remplacer le ?? par le code approprié pour créer une liste de chaînes
+		IList<string> invites = new List<string>();
+		
+		// TODO : Ajouter Joe, Martin et Marie à la liste.
+		invites.Add("Joe");
+    invites.Add("Martin");
+    invites.Add("Marie");
+        Console.WriteLine("Les invités sont :");
+		foreach (String invite in invites)
+		{
+			Console.WriteLine(invite);
+		}
+		// TODO : Compléter l'instruction suivante en remplaçant le ?? pour afficher la taille de la liste
+		Console.WriteLine(invites.Count);
+		
+		// TODO : Remplacer Martin par Jean dans la liste
+		
+        invites.Insert(1,"Jean");
+        	foreach (String invite in invites)
+		{
+			Console.WriteLine(invite);
+		}
+        invites.RemoveAt(2);
+        Console.WriteLine("Les invités sont :");
+		foreach (String invite in invites)
+		{
+			Console.WriteLine(invite);
+		}
+		// TODO : Retirer Joe de la liste
+		invites.RemoveAt(0);
+        
+		// Afficher le contenu de la liste
+		Console.WriteLine("Les invités sont :");
+		foreach (String invite in invites)
+		{
+			Console.WriteLine(invite);
+		}
+	}
+}
