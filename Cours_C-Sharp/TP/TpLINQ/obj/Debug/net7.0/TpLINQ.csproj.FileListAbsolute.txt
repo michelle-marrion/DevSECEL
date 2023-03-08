@@ -1,0 +1,15 @@
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\bin\Debug\net7.0\TpLINQ.exe
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\bin\Debug\net7.0\TpLINQ.deps.json
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\bin\Debug\net7.0\TpLINQ.runtimeconfig.json
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\bin\Debug\net7.0\TpLINQ.dll
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\bin\Debug\net7.0\TpLINQ.pdb
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\obj\Debug\net7.0\TpLINQ.csproj.AssemblyReference.cache
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\obj\Debug\net7.0\TpLINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\obj\Debug\net7.0\TpLINQ.AssemblyInfoInputs.cache
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\obj\Debug\net7.0\TpLINQ.AssemblyInfo.cs
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\obj\Debug\net7.0\TpLINQ.csproj.CoreCompileInputs.cache
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\obj\Debug\net7.0\TpLINQ.dll
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\obj\Debug\net7.0\refint\TpLINQ.dll
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\obj\Debug\net7.0\TpLINQ.pdb
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\obj\Debug\net7.0\TpLINQ.genruntimeconfig.cache
+E:\Projet DevSecel\Cours_C-Sharp\TP\TpLINQ\obj\Debug\net7.0\ref\TpLINQ.dll
